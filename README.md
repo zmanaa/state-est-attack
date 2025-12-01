@@ -1,3 +1,5 @@
+This is the code accompanying the "Confidentiality of Linear Systems with Quadratic Output Under Sensor Attacks". 
+
 ## Getting Started
 
 1.  **Dependencies:** Ensure you have **Python 3.8 or newer** installed.
@@ -24,3 +26,4 @@ The script will automatically create a new directory named `figures/` and save t
 
 * **`estimator.pdf`**: Time trajectories of the **true state (z)** and the **estimated state (zhat)** (Figure 3).
 * **`comparison.pdf`**: Comparison of the norms of the true state (Norm(z)) and the estimation error (Norm(e)).# state-est-attack (Figure 4).
+
