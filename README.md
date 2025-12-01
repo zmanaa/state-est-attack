@@ -1,7 +1,7 @@
 ## Getting Started
 
 1.  **Dependencies:** Ensure you have **Python 3.8 or newer** installed.
-2.  **Installation:** Install the required scientific libraries (NumPy, SciPy, Matplotlib) using `pip`.
+2.  **Installation:** Install the required libraries using the following
     ```bash
     pip install -r requirements.txt
     ```
